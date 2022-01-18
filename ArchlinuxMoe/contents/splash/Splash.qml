@@ -3,7 +3,7 @@ import QtQuick 2.5
 
 Rectangle {
     id: root
-    color: "#26292e"
+    color: "#17191c"
 
      property int stage
 
