@@ -33,7 +33,7 @@ Rectangle {
 
             anchors.centerIn: parent
 
-            source: "images/plasmalogo.png"
+            source: "images/plasmalogo.svg"
 
             sourceSize.width: size
             sourceSize.height: size
@@ -43,7 +43,7 @@ Rectangle {
             id: busyIndicator
             y: parent.height - (parent.height - logo.y) / 2 - height/1
             anchors.horizontalCenter: parent.horizontalCenter
-            source: "images/busy.png"
+            source: "images/busy.svg"
             sourceSize.height: units.gridUnit * 3
             sourceSize.width: units.gridUnit * 3
             RotationAnimator on rotation {
