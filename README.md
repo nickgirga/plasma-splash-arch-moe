@@ -1,18 +1,11 @@
 # plasma-splash-arch-moe
-Plasma Splash Screen for Archlinux, Moe Themed
+Fork of [Plasma Splash Screen for Archlinux, Moe Themed](https://github.com/perigoso/plasma-splash-arch-moe)
+
+Updated with SVGs to accommodate high resolution displays and a slightly darker background to really make the colors pop
 
 ![Preview](ArchlinuxMoe/contents/previews/splash.png)
 
 ## Installation
-
-### Arch Linux
-
-Install the package `plasma-splash-arch-moe`
-```
-$ paru -S plasma-splash-arch-moe
-```
-
-### Other Distros
 
 Copy the folder `ArchlinuxMoe` to `~/.local/share/plasma/look-and-feel/`
 
@@ -28,3 +21,4 @@ To set this splash screen as your plasma splash screen:
 ## Acknowledgements
 - [Moe Theme](https://gitlab.com/jomada/moe-theme)
 - [YAPLASS ArchLinux](https://www.opencode.net/mrmaire)
+- [Original Plasma Splash Arch Moe](https://github.com/perigoso/plasma-splash-arch-moe)
