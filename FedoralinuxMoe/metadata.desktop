@@ -1,0 +1,11 @@
+[Desktop Entry]
+Comment=Moe themed Fedora Linux Splash Screen
+Name=Fedora Linux (Moe)
+X-KDE-PluginInfo-Author=perigoso, nickgirga
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GNU GPL v3
+X-KDE-PluginInfo-Name=FedoralinuxMoe
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=https://gitlab.com/nickgirga/plasma-splash-fedora-moe
+X-KDE-ServiceTypes=Plasma/LookAndFeel
